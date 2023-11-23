@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gaurimarde
 - 👀 I’m interested in software testing , Manual and automation both
 - 🌱 I’m currently learning software testing using selenium
-- 💞️ I’m looking to collaborate on ...
 - 📫 gaurimarde4719@gmail.com
 
 <!---
